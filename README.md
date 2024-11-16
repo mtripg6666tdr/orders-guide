@@ -1,12 +1,12 @@
 # ご依頼詳細サイト
 私 うさみょん/myon2019 は、ウェブサイトの作成・保守のご依頼を随時受け付けております。
 
-かわいいテイストのウェブサイトの政策をはじめ、幅広くウェブサイトを制作いたします。
+かわいいテイストのウェブサイトをはじめ、幅広くウェブサイトを制作いたします。
 
 ※ご相談の結果、ご依頼をお受けできないことがあること、あらかじめご了承ください。
 
 ## スキル
-HTML / JavaScript / TypeScript / SASS (SCSS) / CSS Modules / React / Next.js / Webpack / etc...
+HTML / JavaScript / TypeScript / SASS (SCSS) / CSS Modules / React / Next.js / Webpack / GitHub Pages / Cloudflare Pages / Cloudflare Workers / etc...
 
 ## 作品
 * [NeoMelodist](https://neomelodist.com) (デザイン・コーディング)
