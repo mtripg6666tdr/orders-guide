@@ -5,6 +5,8 @@
 
 ※ご相談の結果、ご依頼をお受けできないことがあること、あらかじめご了承ください。
 
+※お仕事のご依頼については、[ココナラ](https://coconala.com/services/3626579)でも公開・受付しております。
+
 ## スキル
 HTML / JavaScript / TypeScript / SASS (SCSS) / CSS Modules / React / Next.js / Webpack / GitHub Pages / Cloudflare Pages / Cloudflare Workers / etc...
 
